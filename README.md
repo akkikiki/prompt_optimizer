@@ -1,6 +1,6 @@
 # prompt_optimizer
 
-A prompt optimization tool for Transformer models using basic approaches with iterative refinement. Automatically optimizes prompts by evolving them through multiple generations to achieve better performance on specific tasks.
+This is a basic prompt optimization tool for Transformer models using basic approaches with iterative refinement. Automatically optimizes prompts by evolving them through multiple generations to achieve better performance on specific tasks.
 
 ## Optimization Strategies
 
