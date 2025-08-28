@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Prompt Optimization Script for Llama and Qwen Family Models
+Simple Prompt Optimization Script
 
 This script optimizes prompts for Llama and Qwen models by:
 1. Using iterative refinement with gradient-free optimization
